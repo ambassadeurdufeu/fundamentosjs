@@ -2,7 +2,9 @@
 
 Archivos organizados del curso fundamentos en JavaScript.
 
-Se incluyen todas las lecciones del curso de forma cronológica, difiere del repo original por que el profesor tiene unos archivos revueltos que no corresponden a la verdadera cronologia.
+La ventaja que tenéis al descargar este repo es que se encuentra organizado, actualizado y no solo se descarga la rama master con las primeras dos clases del repo original del profesor, si no que la misma rama tiene todo el contenido.
+
+Se incluyen todas las lecciones del curso de forma cronológica, la numeración difiere del repo original por que el profesor tiene unos archivos revueltos que no corresponden a la verdadera cronologia.
 
 Se hace uso de la API swapi.dev y no swapi.co
 
