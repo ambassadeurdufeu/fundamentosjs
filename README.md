@@ -15,3 +15,7 @@ El codigo del juego se muestra conforme se va haciendo el progreso en el curso, 
 En algunos codigos de las clases me he tomado la libertad de borrar algunos comentarios innecesarios, pero he dejado los que valen la pena p.ej si queréis expresar una arrow function de una forma menos simplificada pero que vale para el tema de esa clase, se ha quedado. Pero si el codigo trata de objetos y aún arrastra codigo de strings, se ha borrado.
 
 Se considera que el curso termina hasta la clase 40, a partir de la 41 se consideran los complementos.
+
+IMPORTANTE!! Recuerda que para "correr" los archivos .js solo hace falta incluir el archivo como script en el archivo unico archivo index.html que he incluido.
+
+El archivo index.html ya incluye el script de jQuery que se usará en el módulo de asincronismo más adelante para hacer el consumo de la API
